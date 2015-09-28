@@ -37,9 +37,7 @@ alfabeto alterado tres posiciones a la derecha:
 
 Utilizando lo anterior, el mensaje "feliz" se convierte en "iholc".
 
-Para aprender más sobre cifrado César, visite el siguiente [artículo][1].
-
-[1]:(https://en.wikipedia.org/wiki/Caesar_cipher)
+Para aprender más sobre cifrado César, visite el siguiente [artículo](https://en.wikipedia.org/wiki/Caesar_cipher)
 
 
 ##Encriptación (HINTS)
